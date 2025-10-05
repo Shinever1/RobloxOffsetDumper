@@ -1,2 +1,3 @@
-# RobloxOffsetDumper
-Just a roblox offset dumper to use for externals or execs
+# STEP 1: Go open Roblox and join a game
+# STEP 2: Run the offset dumper (MUST HAVE PDB FILE FOR IT TO WORK)
+# STEP 3: Just wait for the offsets to be found and there you go :3
